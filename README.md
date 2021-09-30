@@ -37,6 +37,8 @@ Hola! Soy Juan Carlos González Quesada, un estudiante del Máster de Ingenierí
 <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
 <code><img title="Git" height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
+<code><img title="GitHub" height="25" src="https://github.com/jcgq/jcgq/blob/main/psql.png"></code>
+<code><img title="GitHub" height="25" src="https://github.com/jcgq/jcgq/blob/main/ruby.png"></code>
 <code><img title="Terminal" height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
 ### Proyectos y trayectoria:
