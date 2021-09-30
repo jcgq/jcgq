@@ -13,7 +13,7 @@
 Hola! Soy Juan Carlos González Quesada, un estudiante del Máster de Ingeniería Informática en la UGR.
 
 
-### ALgunas cosas sobre mí:
+### Algunas cosas sobre mí:
 
 * 🎓 Graduado en Ingeniería Informática con mención en Sistemas de Información en la UGR.
 * 🔬 Actualmente estoy terminando mis estudios de la Universidad de Granada en el Máster Profesional en Ingeniería Informática.
@@ -26,7 +26,7 @@ Hola! Soy Juan Carlos González Quesada, un estudiante del Máster de Ingenierí
 
 <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
 <code><img title="C++" height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
-<code><img title="Python" height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img title="CSS" height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/css.png" alt="python"></code>
 <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
 <code><img title="SQL" height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img title="PHP" height="25" src="https://github.com/jcgq/jcgq/blob/main/php.svg"></code>
